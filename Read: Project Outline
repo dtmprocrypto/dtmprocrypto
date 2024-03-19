@@ -1,9 +1,12 @@
-Im currently runing an ASIC farm consisting of 6 IceRiver ks0 pro's
+Im currently runing an ASIC crpyto mining farm ($Kaspa) consisting of 6 IceRiver ks0 pro's
 
 I dislike the basic dashboard, and plan to have a self sustaining for:
   caluclating acctual cost, acctual income, a live income display, and charted changes
   along with easy configurations of overclocks, technicly possibly and automatic overclocking
   feature, though, that would be VERY far down the line.
+Navigaing all the diffent IP's, while simple enough, is ineffictient if I only need to see
+  a fe numbers, so I started making something right away. Currently on its 5th revision/update.
+
 With a goal of complete conectivity! So I can be alterted, and alter paramaters while outside
 of my home network. As long as I have celular data, I have access to everything, however I 
 plan to change this to a simple domain with user logins, and an easy-to-use, however modern
