@@ -8,9 +8,14 @@ Navigaing all the diffent IP's, while simple enough, is ineffictient if I only n
   a fe numbers, so I started making something right away. Currently on its 5th revision/update.
 
 With a goal of complete conectivity! So I can be alterted, and alter paramaters while outside
-of my home network. As long as I have celular data, I have access to everything, however I 
-plan to change this to a simple domain with user logins, and an easy-to-use, however modern
-dashboard for people wanting a simmilar thing.
+  of my home network. As long as I have celular data, I have access to everything, however I 
+  plan to change this to a simple domain with user logins, and an easy-to-use, however modern
+  dashboard for people wanting a simmilar thing.
 
 I understand this is a very personalized project, though I do hope that my work can make
-the live of others easier. Feel free to ask questions through my email on my account page.
+  the live of others easier. Feel free to ask questions through my email on my account page.
+
+As of currently, directories will likely get in the way of your use. This is my first project,
+  and still learning everything. If your dicide to use, and start ruinning into directory errors,
+  you can either fix them through the code (everything is fairly orginized, should be easy to locate)
+  or maybe I'll have a solution for undefined directories.
